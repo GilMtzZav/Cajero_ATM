@@ -1,2 +1,2 @@
-# Cajero_ATM
-Cajero ATM
+# Cajero-automatico
+ATM con bootstrap y javascript
